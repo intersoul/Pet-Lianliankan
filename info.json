@@ -1,0 +1,17 @@
+{
+  "title": "宠物连连看特别版",
+  "category": "益智",
+  "type": "flash",
+  "fromSite": "4399",
+  "online": {
+    "originPage": "http://www.4399.com/flash/8670.htm",
+    "truePage": "http://sxiao.4399.com/4399swf/upload_swf/ftp18/liuxy/20160130/8670/jifen2.htm",
+    "binUrl": "http://sxiao.4399.com/4399swf/upload_swf/ftp18/liuxy/20160130/8670/game.swf",
+    "icon": "http://imga1.5054399.com/upload_pic/7272/9/8670.jpg"
+  },
+  "local": {
+    "binFile": "game.swf",
+    "folder": "宠物连连看特别版_4399_w72Ju",
+    "icon": "icon.jpg"
+  }
+}
